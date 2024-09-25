@@ -6,4 +6,8 @@ public class Saludo{
 
 
   }
+  public void despedir(){
+    System.out.println("Adiós, mundo!");
+
+  }
 }
